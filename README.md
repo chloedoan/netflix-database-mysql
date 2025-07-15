@@ -19,7 +19,7 @@ All tables are connected through the `show_id` field, except for `rating_descrip
 
 ---
 
-## 🐍 Python Data Enrichment (IMDb Integration)
+## 📁 Python Data Enrichment (IMDb Integration)
 
 To enrich the Netflix dataset with **average user ratings** and **number of votes**, a Python data pipeline was developed using IMDb’s non-commercial datasets. 
 
