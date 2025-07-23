@@ -3,6 +3,8 @@
 
 This project explores Netflix’s content library using a combination of SQL and Python data processing. It focuses on extracting business insights from a cleaned and normalized version of the original Netflix dataset, further enriched with external IMDb ratings data.
 
+Tableau Dashboard Link: https://public.tableau.com/app/profile/chloe.doan/viz/Netflix_17516218459510/overview
+
 ---
 
 ## 🗃️ Dataset Overview
